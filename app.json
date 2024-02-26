@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;VRFB1ILC#35mzUxtnKfz9ajWwYipQH0PfEQgh4jxtdQSs-NTPOJM",
+            "description": "cyber-x@;;;0M9EWRbI#MRe2eMgTIqnomrzGI8dw5meeT3RYkJfbOi8eLSFMovg",
             "required": true,
             "value": ""
         },
@@ -22,7 +22,7 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "badboy3310",
+            "description": "badboy1012",
             "required": true,
             "value": ""
         },
