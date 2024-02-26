@@ -22,14 +22,14 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "badboy33104",
+            "description": "badboy3310",
             "required": true,
             "value": ""
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
-            "value": "public"
+            "value": "private"
         }
     },
     "buildpacks": [
