@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;0M9EWRbI#MRe2eMgTIqnomrzGI8dw5meeT3RYkJfbOi8eLSFMovg",
+            "description": "cyber-x@;;;VRFB1ILC#35mzUxtnKfz9ajWwYipQH0PfEQgh4jxtdQSs-NTPOJM",
             "required": true,
             "value": ""
         },
@@ -22,14 +22,14 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "farman-323309",
+            "description": "badboy33104",
             "required": true,
             "value": ""
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
-            "value": "private"
+            "value": "public"
         }
     },
     "buildpacks": [
