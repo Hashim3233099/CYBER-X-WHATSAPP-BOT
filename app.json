@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;8EkyBSpT#BfvELW6DS8fK0jtCzHgVz2Sqoq-euKLid9FNRanxf00",
+            "description": "cyber-x@;;;4Z1EjCjB#w6o_80FyE0xmPZYN0EkMdghWiS_72I7fAAHhqacAGsM",
             "required": true,
             "value": ""
         },
@@ -22,7 +22,7 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "usman313233",
+            "description": "world313233",
             "required": true,
             "value": ""
         },
