@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;Nc9D2DgS#p02xMV4ptLXnWdXuSpRb1D0t1mp9i2bSvL_-s_abAX8",
+            "description": "cyber-x@;;;8UMgEbgb#l2LrvW4CnHtNzSrxL4QsTAtNMhCqTI87VbUysJBVtRU",
             "required": true,
             "value": ""
         },
@@ -22,7 +22,7 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "sharkmd32",
+            "description": "kashi42",
             "required": true,
             "value": ""
         },
