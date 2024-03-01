@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;8UMgEbgb#l2LrvW4CnHtNzSrxL4QsTAtNMhCqTI87VbUysJBVtRU",
+            "description": "cyber-x@;;;JZF1kaYD#2vN_Hup35PI0GqT1E0o0T86ZfK6zVPSYv6BNQ4FvZYU",
             "required": true,
             "value": ""
         },
@@ -22,7 +22,7 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "kashi42",
+            "description": "waqarali33099",
             "required": true,
             "value": ""
         },
