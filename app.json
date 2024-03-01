@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;JZF1kaYD#2vN_Hup35PI0GqT1E0o0T86ZfK6zVPSYv6BNQ4FvZYU",
+            "description": "cyber-x@;;;5UcT0SSS#6NK0i6a-jpaY1_06wpc-UwakE_hQmelUGHGObd00AS4",
             "required": true,
             "value": ""
         },
@@ -22,7 +22,7 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "waqarali33099",
+            "description": "waqara00998877",
             "required": true,
             "value": ""
         },
