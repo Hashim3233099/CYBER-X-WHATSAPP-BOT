@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;VYc2kIRL#DJAAdxjVQiZVwMVYqi3RPBKs6WySV-sSAjY3p8Efj2w",
+            "description": "cyber-x@;;;tAl3zYpC#6wXtKvdyg31dqPEMJRffYr33p-_RkFV-FApUT4hXs98",
             "required": true,
             "value": ""
         },
@@ -22,7 +22,7 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "noman0990",
+            "description": "nom120",
             "required": true,
             "value": ""
         },
