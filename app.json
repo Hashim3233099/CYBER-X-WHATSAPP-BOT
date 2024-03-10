@@ -12,17 +12,17 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;1UsQWQJR#nrhG-atyEk0OaUGX8ix734Lf7Qsa0OPca8pYZyOH-O0",
+            "description": "cyber-x@;;;cQlQCQYT#L3sAsRaC7CoMAOQXg-JxYvA7Qt2a-cqT1XImlnMxlOI",
             "required": true,
             "value": ""
         },
         "HEROKU_API_KEY": {
-            "description": "551bbd08-0560-4c66-b232-5901b5d17e88",
+            "description": "039bbcba-599f-41c8-8fd2-cab562485b82",
             "required": true,
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "nom1111",
+            "description": "nom11111",
             "required": true,
             "value": ""
         },
