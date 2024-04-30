@@ -25,6 +25,7 @@
 1. Scan QR - [Click here]<br>
 <a href='https://replit.com/onrender.com/cyber-PAIR-CODE' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
+Scan QR - [Click here](https://gpt-qr-web-scaner.onrender.com/cyber-x.html)
 2. Fork the Repo - [Click here](https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT/fork)
 
 3. Go app.json and Change "repostory" Url's user name to your user name ( Line 04 )
